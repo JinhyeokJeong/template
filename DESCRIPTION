@@ -1,11 +1,12 @@
-Package: template
+Package: funR
 Type: Package
-Title: Concise Summary of What the Package Does
-Version: 1.0
-Date: 2024-03-04
-Author: Your Name
-Maintainer: Your Name <your@email.com>
-Description: More about what it does (maybe more than one line).
+Title: A place to have functions in R (Concise Summary of What the Package Does)
+Version: 0.0.1
+Date: 2025-03-07
+Author: Jinhyeok Jeong
+Maintainer: Jinhyeok Jeong <jjh00413@gmail.com>
+Description: This is a template for building a new R package.
+Imports: tidyverse
 License: GPL (>= 2)
 Encoding: UTF-8
-RoxygenNote: 7.3.1
+RoxygenNote: 7.3.2
